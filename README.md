@@ -6,7 +6,7 @@ The objective of this project is to evaluate the sales and profitability perform
 Which regions, states, and product categories are driving profit and which are causing losses? Where should the company focus on growth?
 
 ## Why is it important?
-Understanding profit performance is essential for:
+Understanding profit performance is essential for:<br>
 •	Identifying underperforming markets<br>
 •	Reducing financial losses<br>
 •	Optimizing pricing and discount strategies<br>
