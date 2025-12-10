@@ -76,12 +76,10 @@ The third visualization provides a deeper drill-down at the city level. In this 
 The analysis shows that while several states generate strong, consistent profits, ten states are currently operating at a net loss, pointing to underlying inefficiencies in pricing, discounting, shipping, or operating costs. Profitability varies significantly by region, indicating that a one-size-fits-all national strategy is no longer effective and that performance can be improved through customized, region-specific approaches. In addition, certain product subcategories continue to underperform, suggesting the need for revised sales strategies, tighter inventory control, or potential product line reductions. Overall, the data highlights clear opportunities for the company to protect its strongest markets, correct inefficiencies in weaker regions, and realign product strategy to maximize long-term profitability.
 
 ## Reccomendations
-1. Adopt region-specific pricing and promotion strategies for the ten loss-generating states to address local cost structures, discount patterns, and customer behavior instead of relying on a single national strategy.
+1.Adopt region-specific pricing and promotion strategies for the ten loss-generating states to address local cost structures, discount patterns, and customer behavior instead of relying on a single national strategy.
 
-2.Conduct a cost and discount audit in underperforming states to identify whether shipping expenses, excessive discounting, or poor product mix is driving losses.
+2.Reevaluate low-performing product subcategories by either adjusting pricing, reducing inventory levels, renegotiating supplier costs, or discontinuing consistently unprofitable items.
 
-3.Reevaluate low-performing product subcategories by either adjusting pricing, reducing inventory levels, renegotiating supplier costs, or discontinuing consistently unprofitable items.
+3.Double down on high-margin categories such as Technology and strong Office Supplies items by increasing inventory, marketing focus, and targeted promotions to maximize profitable growth.
 
-4.Double down on high-margin categories such as Technology and strong Office Supplies items by increasing inventory, marketing focus, and targeted promotions to maximize profitable growth.
-
-5.Monitor return trends closely, as returns directly reduce net profit and may signal quality, fulfillment, or customer expectation issues.
+4.Monitor return trends closely, as returns directly reduce net profit and may signal quality, fulfillment, or customer expectation issues.
