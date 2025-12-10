@@ -58,12 +58,30 @@ The third visualization provides a deeper drill-down at the city level. In this 
 <img width="1638" height="830" alt="City of Houston" src="https://github.com/user-attachments/assets/7a57abff-35a7-4372-ab60-0cfb652f1ee5" />
 
 ## Key findings
-•	While some states consistently generate strong profits, several others operate at a net loss, indicating inefficiencies in pricing or operating costs.<br>
-•	Profitability varies significantly by region suggesting the need for customized regional strategies rather than single nationwide approach.<br>
-•	10 states are operating at a loss.<br>
-•	Certain product sub categories perform poorly suggesting the need for a better sales strategy or cutback on inventory for that product.<br>
+
+•	The business generated $2.29M in total sales and $286K in profit, resulting in a 12% overall profit margin, indicating healthy national performance despite localized losses.<br>
+•	Technology is the top-performing category, contributing $145,455 in profit (51%), driven mainly by Phones ($44,516) and Binders ($30,222).<br>
+•	Office Supplies is the second-largest profit driver at $122,491 (43%), with strong contributions from Paper ($34,054) and Storage ($21,279).<br>
+•	Furniture shows the weakest performance, contributing only $18,451 (6%), with major losses in Tables (–$17,725) and Bookcases (–$3,473), despite strong profit from Chairs (+$26,590).<br>
+•	Texas stands out as the largest loss-generating state, clearly visible on the map, indicating a significant regional performance issue.<br>
+•	The sales trend shows steady growth with major spikes after 2024, suggesting improving demand and market expansion toward 2026.<br>
+•	A total of 296 product returns indicates a meaningful impact on net profitability and highlights potential quality or fulfillment issues.<br>
 
 ## Limitations of the analysis
 •	The dataset does not include actual operating costs, which limits full profitability modeling.<br>
 •	Promotional timing and seasonality effects ae not fully captured.<br>
 •	Customer behavior factors such as loyalty and lifetime value are not available.<br>
+
+## Conclusion 
+The analysis shows that while several states generate strong, consistent profits, ten states are currently operating at a net loss, pointing to underlying inefficiencies in pricing, discounting, shipping, or operating costs. Profitability varies significantly by region, indicating that a one-size-fits-all national strategy is no longer effective and that performance can be improved through customized, region-specific approaches. In addition, certain product subcategories continue to underperform, suggesting the need for revised sales strategies, tighter inventory control, or potential product line reductions. Overall, the data highlights clear opportunities for the company to protect its strongest markets, correct inefficiencies in weaker regions, and realign product strategy to maximize long-term profitability.
+
+## Reccomendations
+1. Adopt region-specific pricing and promotion strategies for the ten loss-generating states to address local cost structures, discount patterns, and customer behavior instead of relying on a single national strategy.
+
+2.Conduct a cost and discount audit in underperforming states to identify whether shipping expenses, excessive discounting, or poor product mix is driving losses.
+
+3.Reevaluate low-performing product subcategories by either adjusting pricing, reducing inventory levels, renegotiating supplier costs, or discontinuing consistently unprofitable items.
+
+4.Double down on high-margin categories such as Technology and strong Office Supplies items by increasing inventory, marketing focus, and targeted promotions to maximize profitable growth.
+
+5.Monitor return trends closely, as returns directly reduce net profit and may signal quality, fulfillment, or customer expectation issues.
