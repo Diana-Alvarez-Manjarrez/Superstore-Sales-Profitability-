@@ -44,18 +44,18 @@ Tools used:<br>
 This dashboards shows visualizations for:<br>
 •	Sales and profit trends over time<br>
 •	United States Map with Profit gain and loss distribution by state<br>
-&nbsp;&nbsp;&nbsp;&nbsp;o	Red states show profit loss (Top 3 profit loss states in dark red)
-&nbsp;&nbsp;&nbsp;&nbsp;o	Green states show profit (Top 3 states in dark green)
+&nbsp;&nbsp;&nbsp;&nbsp;o	Red states show profit loss (Top 3 profit loss states in dark red)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;o	Green states show profit (Top 3 states in dark green)<br>
 •	Percentage makeup table for each category (Technology, Office Supplies, and Furniture<br>
 •	Category and sub category profitability table<br>
 • City Table showing either profit gains or loss<br>
 <img width="1655" height="845" alt="Superstore dash" src="https://github.com/user-attachments/assets/b9afbb83-b712-4852-8c61-4e84130d0c8e" />
 
-Second picture shows a drilled down of the state Texas. We can see all the KPI data for the state like sales, COGS, returns, etc., breakdown of the cities performing at profit loss, break down of profits of categories and subcategories.
+Second picture shows a drilled down of the state Texas. We can see all data has changed for the state. Texas has generated a $25,729 profit loss for the past five years. Categories creating this profit loss are Office Supplies followed by furniture and a breakdown of the cities generating the loss are listed in the table with the city of Houston being #1.
 <img width="1649" height="825" alt="Texas" src="https://github.com/user-attachments/assets/08b0fd0c-75fb-4355-8b1a-6a9dc89fdf12" />
 
-Third image shows us a more drill down version to the specific city of choice. In this case, we are looking at the city of Houston:<br>
-https://github.com/Diana-Alvarez-Manjarrez/Superstore-Sales-Profitability-/blob/main/City%20of%20Houston.png
+The third visualization provides a deeper drill-down at the city level. In this view, the focus is on Houston, allowing for a detailed examination of its sales and profit performance. Houston’s losses are driven primarily by Binders (–$6,895) and Appliances (–$2,887), with additional negative contributions from Chairs, Bookcases, and Tables. These underperforming subcategories explain the city’s overall –$10,154 profit.<br>
+<img width="1638" height="830" alt="City of Houston" src="https://github.com/user-attachments/assets/7a57abff-35a7-4372-ab60-0cfb652f1ee5" />
 
 ## Key findings
 •	While some states consistently generate strong profits, several others operate at a net loss, indicating inefficiencies in pricing or operating costs.<br>
