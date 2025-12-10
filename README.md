@@ -1,3 +1,4 @@
+# Superstore Sales & Profitability 
 ## Problem Statement
 The objective of this project is to evaluate the sales and profitability performance of the retail superstore across different regions, states and product categories. While total revenue may appear strong at the surface level, looking at individual states and what can improve can help improve profitability and sustainability.
 
