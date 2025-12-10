@@ -43,11 +43,17 @@ Tools used:<br>
 ## Dashboards and Visuals created
 <img width="1655" height="845" alt="Superstore dash" src="https://github.com/user-attachments/assets/b9afbb83-b712-4852-8c61-4e84130d0c8e" />
 
-This project contains dashboards showing:<br>
+This dashboards shows visualizations for:<br>
 •	Sales and profit trends over time<br>
-•	Profit and loss distribution by state<br>
-•	Top and bottom performing products<br>
-•	Category and sub category profitability<br>
+•	United States Map with Profit gain and loss distribution by state<br>
+&nbsp;&nbsp;&nbsp;&nbsp;o	Red states show profit loss (Top 3 profit loss states in dark red)
+&nbsp;&nbsp;&nbsp;&nbsp;o	Green states show profit (Top 3 states in dark green)
+•	Percentage makeup table for each category (Technology, Office Supplies, and Furniture<br>
+•	Category and sub category profitability table<br>
+• City Table showing either profit gains or loss<br>
+
+<img width="1649" height="825" alt="Texas" src="https://github.com/user-attachments/assets/08b0fd0c-75fb-4355-8b1a-6a9dc89fdf12" />
+Second picture shows a drilled down of the state Texas. We can see all the KPI data for the state like sales, COGS, returns, etc., breakdown of the cities performing at profit loss, break down of profits of categories and subcategories.
 
 ## Key findings
 •	While some states consistently generate strong profits, several others operate at a net loss, indicating inefficiencies in pricing or operating costs.<br>
