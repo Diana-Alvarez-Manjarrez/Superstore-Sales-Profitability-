@@ -51,7 +51,7 @@ This dashboards shows visualizations for:<br>
 • City Table showing either profit gains or loss<br>
 <img width="1655" height="845" alt="Superstore dash" src="https://github.com/user-attachments/assets/b9afbb83-b712-4852-8c61-4e84130d0c8e" />
 
-Second picture shows a drilled down of the state Texas. We can see all data has changed for the state. Texas has generated a $25,729 profit loss for the past five years. Categories creating this profit loss are Office Supplies followed by furniture and a breakdown of the cities generating the loss are listed in the table with the city of Houston being #1.
+The second visualization provides a detailed drill-down of Texas, where the data updates to reflect state-level performance. Over the past five years, Texas has recorded a total profit loss of $25,729, driven primarily by the Office Supplies category, followed by Furniture. The accompanying city-level breakdown highlights where these losses originate, with Houston ranking as the top loss-generating city.
 <img width="1649" height="825" alt="Texas" src="https://github.com/user-attachments/assets/08b0fd0c-75fb-4355-8b1a-6a9dc89fdf12" />
 
 The third visualization provides a deeper drill-down at the city level. In this view, the focus is on Houston, allowing for a detailed examination of its sales and profit performance. Houston’s losses are driven primarily by Binders (–$6,895) and Appliances (–$2,887), with additional negative contributions from Chairs, Bookcases, and Tables. These underperforming subcategories explain the city’s overall –$10,154 profit.<br>
